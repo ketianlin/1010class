@@ -13,6 +13,8 @@ https://www.bilibili.com/video/av91963869
 #####第二章：golang的基础知识——结构，包，变量初探（1010工作室出品）
 https://www.bilibili.com/video/av91352941
 
+#####第三章：golang基本数据类型和变量初探（1010工作室出品）
+https://www.bilibili.com/video/av91352941
 ---
 ### vue入门教学
 
