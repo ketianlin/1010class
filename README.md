@@ -82,6 +82,39 @@ https://www.bilibili.com/video/BV1S5411x7Bz
 http://naotu.baidu.com/file/b4e45488ba4118022689c6cf190cb1f8?token=cee3bba74fd1c6c8
 ---
 
+## gin 基础
+
+#### 第一章：gin的学习前准备工作 hello gin（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV12i4y1x7AG
+- 脑图：
+http://naotu.baidu.com/file/239893df60f2fb39bd400c9341161fe8?token=6047a69d268efa88
+
+#### 第二章：gin的get post delete put请求以及获取参数的方式（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1Be411p7Jf
+- 脑图：
+http://naotu.baidu.com/file/7d50e480bf0bc6c02857f413a1139cab?token=8713cfc5461e2d4c
+
+#### 第三章：使用bind绑定参数和参数验证（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1gt4y1173C
+- 脑图：
+http://naotu.baidu.com/file/d6eb6ce175be105a18aa8a4b9b764f6c?token=88b6d4a8c767203e
+
+#### 第四章：gin对于文件的上传和返回（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1GA411t7BR
+- 脑图：
+http://naotu.baidu.com/file/0a69d82128312e02e2a00089409c43ed?token=a446eb47e73b5681
+
+#### 第五章：gin的中间件和路由分组（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV18C4y1p7Fe
+- 脑图：
+http://naotu.baidu.com/file/e16040cf726f1e20041b5f0957752ad3?token=a2361369a32ac4f3
+
+---
 ## vue入门教学
 
 #### 手挽手带你学VUE，基础VUE入门
