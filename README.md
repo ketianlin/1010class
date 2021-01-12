@@ -114,6 +114,24 @@ https://www.bilibili.com/video/BV18C4y1p7Fe
 - 脑图：
 http://naotu.baidu.com/file/e16040cf726f1e20041b5f0957752ad3?token=a2361369a32ac4f3
 
+#### 第六章：日志介绍以及工具推荐（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1Bf4y1y7yh
+- 脑图：
+http://naotu.baidu.com/file/8f64078781c79303508a10b03e868ba2?token=fffc77e8c72f2cbb
+
+#### 第七章：初识GROM使用GORM进行数据库操作（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1Bz411v78U
+- 脑图：
+http://naotu.baidu.com/file/12a84151cbef16fae404b11d36134d65?token=d230a41394b5287b
+
+#### 第八章：gorm结构体的创建技巧和结合gin使用（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1kC4y1t7Qi
+- 脑图：
+http://naotu.baidu.com/file/77b4c6cf0d96fdb9d8f3cfd39466fa0b?token=2ecc4eb251a78112
+
 ---
 ## vue入门教学
 
