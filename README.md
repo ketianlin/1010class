@@ -132,6 +132,13 @@ https://www.bilibili.com/video/BV1kC4y1t7Qi
 - 脑图：
 http://naotu.baidu.com/file/77b4c6cf0d96fdb9d8f3cfd39466fa0b?token=2ecc4eb251a78112
 
+#### 第九章：jwt-go详细教学及使用示例（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV14p4y1x7kF
+- 脑图：
+http://naotu.baidu.com/file/f1b95b79c1f1ef2c16a9710bdaab1c57?token=b51bdd4462977e46
+
+
 ---
 ## vue入门教学
 
