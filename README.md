@@ -138,6 +138,11 @@ https://www.bilibili.com/video/BV14p4y1x7kF
 - 脑图：
 http://naotu.baidu.com/file/f1b95b79c1f1ef2c16a9710bdaab1c57?token=b51bdd4462977e46
 
+#### 第十章：半小时彻底弄懂Casbin基础模型（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1qz4y167XP/
+- 脑图：
+http://naotu.baidu.com/file/48ed64e9dc48b58fa27f8f9d7635d3fe?token=f19de95ac59e4183
 
 ---
 ## vue入门教学
