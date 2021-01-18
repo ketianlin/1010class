@@ -144,6 +144,12 @@ https://www.bilibili.com/video/BV1qz4y167XP/
 - 脑图：
 http://naotu.baidu.com/file/48ed64e9dc48b58fa27f8f9d7635d3fe?token=f19de95ac59e4183
 
+#### 第十一章：Casbin的代码使用、api调用、自定义比较方法（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV13r4y1M7AC/
+- 脑图：
+http://naotu.baidu.com/file/a78a3f076afd7967dcf32aa6fa214ac1?token=0f4868789a45f48e
+
 ---
 ## vue入门教学
 
