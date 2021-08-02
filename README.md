@@ -157,3 +157,66 @@ http://naotu.baidu.com/file/a78a3f076afd7967dcf32aa6fa214ac1?token=0f4868789a45f
 https://www.bilibili.com/video/av40385972?p=1
 
 ---
+
+## GORM教程
+
+#### 手把手带你入门GORM（第一章+合集）
+- 视频：
+https://www.bilibili.com/video/BV1E64y1472a/
+- 脑图：
+http://naotu.baidu.com/file/527c70691c64f120e249d7711b60650c?token=825081ad977b5c86
+
+#### 【GORM教学】第二章：如何建立一个GORM链接以及表基础操作（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1C44y127Yn/
+- 脑图：
+http://naotu.baidu.com/file/6e83c3ea1ec5619611b09e8808f6c837?token=3b00b42c08a2a58f
+
+
+#### 【GORM教学】第三章：GORM模型的创建和关键标签（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1BL411W7XN/
+- 脑图：
+http://naotu.baidu.com/file/01dd02becf2b6274c7913b2cb1e65a73?token=05547b4f8af73c19
+
+#### 【GORM教学】第四章：GORM 增删改查简单体验（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1k44y127t8/
+- 脑图：
+http://naotu.baidu.com/file/16c1a9d3b02ceba95abd9e7aa09bda3d?token=2c9e30da2f9863ba
+
+#### 【GORM教学】第五章：GORM1对1关系（属于，has one）以及关系的操作（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1Tf4y1L7eQ/
+- 脑图：
+http://naotu.baidu.com/file/c4aa2591f643331ba807bfc08e730b26?token=24afdb9c59e3474c
+
+#### 【GORM教学】第六章：GORM1对多关系以及预加载用法（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1iU4y1H7u3/
+- 脑图：
+http://naotu.baidu.com/file/c4aa2591f643331ba807bfc08e730b26?token=24afdb9c59e3474c
+
+#### 【GORM教学】第七章：GORM多对多关系及其操作（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1u44y117M3/
+- 脑图：
+http://naotu.baidu.com/file/20ee9f4d52d0adf0c0e9b46629261789?token=6adf63935e19f03c
+
+#### 【GORM教学】第八章：多态的使用以及关联标签的介绍（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1wP4y1t74H/
+- 脑图：
+http://naotu.baidu.com/file/cfdb7a38fb3a60a7a84a9f14e8fd897a?token=ba1c1c13f27b5841
+
+#### 【GORM教学】第九章：事务的介绍以及使用（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1qf4y157cJ/
+- 脑图：
+http://naotu.baidu.com/file/a0dd26a15e2fdbedd6dc25da2b5c7c87?token=93e7329481c57006
+
+#### 【GORM教学】第十章：GORM自定义数据类型的使用（1010工作室出品）
+- 视频：
+https://www.bilibili.com/video/BV1554y1J75x/
+- 脑图：
+http://naotu.baidu.com/file/e00e32bedca419204bf44deddb0b3dd3?token=fc2eeaae9701dc0c
