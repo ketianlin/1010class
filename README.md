@@ -195,7 +195,7 @@ http://naotu.baidu.com/file/c4aa2591f643331ba807bfc08e730b26?token=24afdb9c59e34
 - 视频：
 https://www.bilibili.com/video/BV1iU4y1H7u3/
 - 脑图：
-http://naotu.baidu.com/file/c4aa2591f643331ba807bfc08e730b26?token=24afdb9c59e3474c
+http://naotu.baidu.com/file/385e43159b44920bf15b16f5a847a2a8?token=018aad45d7f5b410
 
 #### 【GORM教学】第七章：GORM多对多关系及其操作（1010工作室出品）
 - 视频：
