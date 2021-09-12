@@ -80,6 +80,49 @@ http://naotu.baidu.com/file/9794f5e7e59619bac17d18faeb0e2326?token=01bf96b746195
 https://www.bilibili.com/video/BV1S5411x7Bz
 - 脑图:
 http://naotu.baidu.com/file/b4e45488ba4118022689c6cf190cb1f8?token=cee3bba74fd1c6c8
+
+#### 第十三章：context包的基础使用和代码示例（1010工作室出品）
+- 视频:
+https://www.bilibili.com/video/BV1k54y177yM/
+- 脑图:
+http://naotu.baidu.com/file/bf4ac3706e1b7a5b54972a73bff1ee63?token=c9caff8300fb8961
+
+#### 第十四章：并发编程sync包的使用和示例（1010工作室出品）
+- 视频:
+https://www.bilibili.com/video/BV1EM4y1L7XU/
+- 脑图:
+http://naotu.baidu.com/file/40b86a9080ba23cec6f360e828355dc8?token=215a4147340dc664
+
+#### 第十五章：文件操作的基础使用和代码示例（1010工作室出品）
+- 视频:
+https://www.bilibili.com/video/BV1Wq4y1H7Fe/
+- 脑图:
+http://naotu.baidu.com/file/92347e4579b2d6c85fdfa977ff70402b?token=563edfe785782528
+http://naotu.baidu.com/file/ac5b07ad27401fecb31ed1613bfc3fe1?token=e1df65aa903817b6
+
+#### 第十六章：net包的tcp模块的基础使用和代码示例（1010工作室出品）
+- 视频:
+https://www.bilibili.com/video/BV1JP4y1s7rS/
+- 脑图:
+http://naotu.baidu.com/file/3f421a0b8cd27916cf4390a460b05a9e?token=9907fd51c26281aa
+
+#### 第十七章：golang基础之http创建服务端和客户端（1010工作室出品）
+- 视频:
+https://www.bilibili.com/video/BV1uv411w7dD/
+- 脑图:
+http://naotu.baidu.com/file/13b7fea51e7fe6ba1c86690472be527b?token=3b2fa078b86fc392
+
+#### 第十八章：golang基础之RPC的客户端和服务端（1010工作室出品）
+- 视频:
+https://www.bilibili.com/video/BV1gL411x7Ss/
+- 脑图:
+http://naotu.baidu.com/file/d32a619b7e19361e7d658ec714e17220?token=d0984937fe71c14a
+
+#### [T any]第[T]章：golang 泛型的尝鲜+使用+示例（1010工作室出品）
+- 视频:
+https://www.bilibili.com/video/BV1ky4y1V7tJ/
+- 脑图:
+http://naotu.baidu.com/file/e20ee49ae7ecc3f7bbb614f03d0f9542?token=7e23de463f146641
 ---
 
 ## gin 基础
@@ -177,7 +220,7 @@ http://naotu.baidu.com/file/6e83c3ea1ec5619611b09e8808f6c837?token=3b00b42c08a2a
 - 视频：
 https://www.bilibili.com/video/BV1BL411W7XN/
 - 脑图：
-http://naotu.baidu.com/file/01dd02becf2b6274c7913b2cb1e65a73?token=05547b4f8af73c19
+http://naotu.baidu.com/file/58be00329641e9213cc2c98abddd80b5?token=6caf421720b4f73d
 
 #### 【GORM教学】第四章：GORM 增删改查简单体验（1010工作室出品）
 - 视频：
